@@ -1,4 +1,4 @@
-markdown
+﻿markdown
 # MoreUIPanel
 
 轻量右下角信息面板，提供 API 让其他模组注册自定义显示行。
@@ -116,7 +116,7 @@ public class MyPlugin : BaseUnityPlugin
 
 ## 许可证
 
-本项目以 **GNU General Public License v3.0** 发布。
+本项目以 **MIT License** 发布。
 
 Copyright (C) 2026 cn_xc
 
