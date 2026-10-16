@@ -1,0 +1,9 @@
+{
+    "name": "MoreUIPanel",
+    "version_number": "0.1.0",
+    "website_url": "",
+    "description": "王子晨的交流QQ 群：824639225，轻量右下角信息面板，提供 API 让其他模组注册自定义显示行。A lightweight bottom-right HUD panel with a public API for other mods to register custom display lines.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
